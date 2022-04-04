@@ -3,6 +3,13 @@
 <h4 align="center">Currently learning at <a href="https://www.holbertonschool-france.com/">Holberton School</a> Laval</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nboute&title=Commits" alt="nboute" /></a> </p>
 
+# Holberton School
+
+During My first year  at Holberton School I learned using C, Python, HTML/CC and javascript
+
+For the first trimester I worked on 2 group projects: <a href="www.github.com/printf">_printf</a> and <a href:"www.github.com/nboute/simple_shell>simple_shell</a>
+- _printf: I worked in collaboration with <a href="www.github.com/Sb0009">Siham Badyine</a> on recreating part of the function printf in C (base functionalities) over the course of 3 days.
+- simple_shell: Ongoing project of 2 weeks in collaboration with Jay Mesnil and Lucile Deleforge in which the goal is to recreate a shell in C, in about 2 weeks.
 - 🔭 I’m currently working on [simple_shell](www.github.com/nboute/simple_shell)
 
 - 🌱 I’m currently learning **C**
