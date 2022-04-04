@@ -17,6 +17,9 @@ For the first trimester I worked on 2 group projects: <a href="www.github.com/pr
 - 📝 I regularly write articles on [medium.com/nboute](medium.com/nboute)
 
 - 📫 How to reach me **nicolasboute123@gmail.com**
+<h3 align="left">My latest Medium stories:</h3>
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
