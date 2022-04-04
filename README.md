@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+# My name is Nicolas Bouté and I'm currently a software engineering at Holberton School Laval
 <!--
 **nboute/nboute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
