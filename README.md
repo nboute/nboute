@@ -17,12 +17,7 @@ For the first trimester I worked on 2 group projects: <a href="www.github.com/pr
 - 📝 I regularly write articles on [medium.com/nboute](medium.com/nboute)
 
 - 📫 How to reach me **nicolasboute123@gmail.com**
-<h3 align="left">My latest Medium stories:</h3>
-<!-- MEDIUM-STORY-LIST:START -->
-- [Static libraries in C](https://medium.com/@4249/static-libraries-in-c-14817405b05b?source=rss-2eb4226d5eaa------2)
-- [C Language Compilation Detailed](https://medium.com/@4249/c-language-compilation-detailed-5bd782742ff3?source=rss-2eb4226d5eaa------2)
-- [Hard and Soft/Symbolic Links in Linux: What’s the difference?](https://medium.com/@4249/hard-and-soft-symbolic-links-in-linux-whats-the-difference-c96c58f6969a?source=rss-2eb4226d5eaa------2)
-<!-- MEDIUM-STORY-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
