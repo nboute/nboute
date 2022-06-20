@@ -9,10 +9,10 @@ During My first year  at Holberton School I learned using C, Python, HTML/CC and
 
 For the first trimester I worked on 2 group projects: <a href="www.github.com/printf">_printf</a> and <a href:"www.github.com/nboute/simple_shell>simple_shell</a>
 - _printf: I worked in collaboration with <a href="www.github.com/Sb0009">Siham Badyine</a> on recreating part of the function printf in C (base functionalities) over the course of 3 days.
-- simple_shell: Project of 2 weeks in collaboration with Lucile Deleforge in which the goal is to recreate a shell in C.
-- 🔭 I’m currently working on [simple_shell](www.github.com/nboute/simple_shell)
+- simple_shell: Project of 2 weeks in collaboration with <a href="https://github.com/lucileSD">Lucile Deleforge</a> in which the goal is to recreate a shell in C.
+- 🔭 I’m currently working on [Bash scripting](www.github.com/nboute/holberton-system_engineering-devops)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Bash Scripting**
 
 - 📝 I regularly write articles on [medium.com/nboute](medium.com/nboute)
 
